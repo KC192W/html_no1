@@ -1,0 +1,27 @@
+﻿.t {
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 60px;
+	font-weight: bolder;
+	text-align: center;
+	vertical-align: central;
+	margin-top: 10px;
+}
+.i {
+	vertical-align: middle;
+}
+
+.top {
+	padding: 5px;
+	background-color: rgba(0,0,0,0.5);
+	text-align: right;
+	font-size: large;
+}
+body {
+	background-color: #003300;
+	overflow:hidden;
+}
+.i2 {
+	color: #FFFFFF;
+	font-weight: bold;
+}

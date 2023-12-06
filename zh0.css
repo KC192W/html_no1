@@ -1,0 +1,11 @@
+﻿body {
+	background-size: cover;
+	background-image: url('i-img/s2.jpg');
+	font-size: 27px;
+	overflow:hidden;
+}
+.l1 {
+	color: #FFFFCC;
+	font-weight: bold;
+	font-size: 30px;
+}

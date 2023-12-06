@@ -1,0 +1,42 @@
+﻿.f1 {
+	width: 100vw;
+ 	position: absolute;
+	height: 140px;
+	top: 0px;
+
+}
+.d1 {
+	width: 100vw;
+	position: absolute;
+	bottom: 0px;
+	top: 140px;
+}
+.f2 {
+	width: 100vw;
+	position: absolute;
+	left: 0px;
+}
+body {
+	background-position: bottom;
+	overflow: hidden;
+	background-image: url('i-img/u5.jpg');
+	background-size: cover;
+	height: 100vh;
+	bottom: 0px;
+	left: 0px;
+}
+.select1 {
+	z-index: 99;
+	position: fixed;
+	background-color: #162C4F;
+	color: white;
+	top:10px;
+}
+.select2 {
+	z-index: 99;
+	position: fixed;
+	left: 70px;
+	background-color: #162C4F;
+	color: white;
+	top: 10px;
+}

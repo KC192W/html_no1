@@ -1,0 +1,55 @@
+﻿.f1 {
+	width: 100%;
+ 	position: absolute;
+	height: 140px;
+	top: 0px;
+
+}
+.d1 {
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	top: 140px;
+}
+.f2 {
+	border: 3px dotted #663300;
+	padding: 1px;
+	width: 22%;
+	position: absolute;
+	left: 0px;
+}
+.f3 {
+	left: 22%;
+	position: absolute;
+	width: 78%;
+	margin:0px -5px -3px 6px;
+}
+body {
+	overflow:hidden;
+}
+.prodiv{
+	position:fixed;
+	z-index:99;
+	top:200px;
+	right:10px;
+	width:20px;
+	height:120px;
+	box-shadow:3px 4px 0px 0px #1564ad;
+	background:linear-gradient(to bottom,#79bbff 5%,#378de5 100%);
+	border-radius:5px;
+	border:1px solid #337bc4;
+	display:inline-block;
+	cursor:cell;
+	color:ffffff;
+	font-family:標楷體;
+	font-size:20px;
+	padding:10px 24px;
+	text-shadow:0px 1px 0px #528ecc;
+	transition:1s;
+	animation:proposal 3s;
+	opacity:0;
+}
+@keyframes proposal{
+	from{transform:rotate(0deg);}
+	to{transform:rotate(360deg);}
+}

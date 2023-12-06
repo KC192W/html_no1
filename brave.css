@@ -1,0 +1,42 @@
+﻿.d1 {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+}
+.d{
+	opacity: 1;
+	position: absolute;
+	bottom: 0px;
+	right: 10vw;
+	width: 10vw;
+	transform: translate(-50%, -50%);
+	transition: opacity 1s ease-in-out;
+	object-fit: contain;
+}
+.s {
+	left: 10vw;
+	position: absolute;
+	bottom: 50px;
+	width: 30vw;
+	object-fit: contain;
+}
+#time-info {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10;
+}
+body {
+	overflow: hidden;
+
+}
+.d2 {
+	padding: 0px 5px 0px 5px;
+	border-radius: 10px;
+	font-family: 微軟正黑體;
+	color: #FFFFFF;
+	font-size: x-large;
+	font-weight: bold;
+	background-color: rgba(0,0,0,0.7);
+	line-height: 10px;
+}

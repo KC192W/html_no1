@@ -1,0 +1,47 @@
+﻿#comments {
+	margin-top: 2em;
+	border-top: 1px solid #ccc;
+	padding-top: 2em;
+}
+
+.comment {
+	margin-bottom: 2em;
+	padding: 1em;
+	background-color: #FFFACD;
+	border-radius: 5px;
+	font-family: 微軟正黑體;
+	color: #663300;
+}
+
+.comment h2 {
+	margin-top: 0;
+}
+h1 {
+	text-align: center;
+	font-family: 微軟正黑體;
+	font-weight: bold;
+	background-color: #2D2E30;
+	color: #FFFFFF;
+}
+label {
+	font-family: 微軟正黑體;
+	font-weight: bold;
+}
+textarea {
+	margin-bottom: 5px;
+	width: 80vw;
+}
+body {
+	background-color: rgba(45,46,48,0.3);
+	overflow-x: hidden;
+}
+.t1 {
+	font-family: 微軟正黑體;
+	background-color: #FFFFCC;
+	color: #663300;
+	border-style: outset;
+	font-weight: bold;
+}
+.t2 {
+	width: 60vw;
+}

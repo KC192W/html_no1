@@ -1,0 +1,32 @@
+﻿.f1 {
+	border: 15px ridge #663300;
+	width: calc(100vw - 30px);
+	height: 140px;
+	top: 0px;
+}
+.d1 {
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	top: 170px;
+}
+.f2 {
+	width: calc(79vw);
+	left: 0px;
+	height: calc(100vh - 176px);
+}
+.f3 {
+	border: 3px dotted #663300;
+	padding: 1px;
+	left: 80%;
+	width: calc(20vw - 6px);
+	margin:0px;
+	height: calc(100vh - 176px);
+}
+body {
+	overflow: hidden;
+	background-image: url('i-img/s4.jpg');
+	background-size: cover;
+	background-repeat: repeat-y;
+
+}

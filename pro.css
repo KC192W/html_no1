@@ -1,0 +1,40 @@
+﻿html {
+	background-image: url('ch-img/979233dbd9b5d92e4754c22d36766be2.jpg');
+	background-size: cover;
+}
+h1 {
+	color: #FFFFFF;
+	font-family: 微軟正黑體;
+}
+table {
+	border: medium double #FFFFFF;
+	width: 100%;
+	border-spacing: 20px;
+	color: #FFFFFF;
+}
+.td1 {
+	font-size: medium;
+	font-family: "Yu Gothic Medium";
+	color: #FFFF00;
+	background-color: #333333;
+}
+td {
+	border: 0px none #FFFFCC;
+}
+#im {
+	color: #FFFFFF;
+	font-size: xx-large;
+}
+p {
+	color: #FFFFFF;
+	font-family: 微軟正黑體;
+}img {
+	border: thin dashed #000000;
+	width: 33%;
+}
+a {
+	color: #FFFFFF;
+}
+
+
+
